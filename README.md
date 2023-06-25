@@ -1,5 +1,5 @@
 # slowdown
-CPU throttling in MacOS
+- OneDrive CPU throttling in MacOS
 
 # pre-requisites
 - CPU throttling command line utility:
