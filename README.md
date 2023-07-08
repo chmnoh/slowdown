@@ -1,3 +1,7 @@
+# Maybe..
+- [AppTamer|https://www.stclairsoft.com/AppTamer/index.html] is the app you want to install..
+- MacOS SIP prevent cputhrottle from attaching a process(Privileged Helper registration needed..??)
+
 # slowdown
 - OneDrive CPU throttling in MacOS
 
